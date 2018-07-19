@@ -1,0 +1,13 @@
+<Parametri>
+    <par Nome="NomeFileRic" Valore="Richiesta.txt"/>
+    <par Nome="DirIn" Valore="In"/>
+    <par Nome="DirOut" Valore="Out"/>
+    <par Nome="Invalidi" Valore="S"/>
+    <par Nome="RiempiBuchi" Valore="S"/>
+    <par Nome="ValoreRiempiBuchi" Valore="0"/>
+    <par Nome="StatoDato" Valore="S"/>
+    <par Nome="ValoreInvalido" Valore="S"/>
+    <par Nome="SerieOriginale" Valore="N"/>
+    <par Nome="Funzione" Valore="0"/>
+	<par Nome="MisuraPubblica" Valore="S"/>
+</Parametri>

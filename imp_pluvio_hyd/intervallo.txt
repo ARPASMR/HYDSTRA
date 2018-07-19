@@ -1,0 +1,8 @@
+****inserire data e ora usando sempre due cifre per ora mese e giorno e quattro per l'anno*****
+data_inizio			00 00 20 12 2015	(mm hh GG MM AAAA)
+data_fine			00 00 10 01 2018	(mm hh GG MM AAAA)
+nome_file_elenco_siti	Pluviometri.txt
+hydstra_source			PLUVALID
+hydstra_variable		10.00
+file_codici_qualità		quality_Rem2Hyd.txt
+
